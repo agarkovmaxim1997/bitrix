@@ -1,0 +1,7 @@
+<?
+if($INCLUDE_FROM_CACHE!='Y')return false;
+$datecreate = '001605209459';
+$dateexpire = '001605213059';
+$ser_content = 'a:2:{s:7:"CONTENT";s:0:"";s:4:"VARS";a:2:{i:1;a:18:{s:2:"ID";s:1:"1";s:3:"~ID";s:1:"1";s:4:"SORT";s:1:"1";s:5:"~SORT";s:1:"1";s:9:"PARENT_ID";N;s:10:"~PARENT_ID";N;s:11:"LEFT_MARGIN";s:1:"1";s:12:"~LEFT_MARGIN";s:1:"1";s:12:"RIGHT_MARGIN";s:1:"2";s:13:"~RIGHT_MARGIN";s:1:"2";s:11:"DEPTH_LEVEL";s:1:"1";s:12:"~DEPTH_LEVEL";s:1:"1";s:3:"LID";s:2:"ru";s:4:"~LID";s:2:"ru";s:4:"NAME";s:92:"Форумы сообщества  &quot;Информационного портала&quot;";s:5:"~NAME";s:82:"Форумы сообщества  "Информационного портала"";s:11:"DESCRIPTION";s:111:"Форумы, используемые в решении &quot;Информационный портал&quot; ";s:12:"~DESCRIPTION";s:101:"Форумы, используемые в решении "Информационный портал" ";}i:2;a:18:{s:2:"ID";s:1:"2";s:3:"~ID";s:1:"2";s:4:"SORT";s:1:"2";s:5:"~SORT";s:1:"2";s:9:"PARENT_ID";N;s:10:"~PARENT_ID";N;s:11:"LEFT_MARGIN";s:1:"3";s:12:"~LEFT_MARGIN";s:1:"3";s:12:"RIGHT_MARGIN";s:1:"4";s:13:"~RIGHT_MARGIN";s:1:"4";s:11:"DEPTH_LEVEL";s:1:"1";s:12:"~DEPTH_LEVEL";s:1:"1";s:3:"LID";s:2:"ru";s:4:"~LID";s:2:"ru";s:4:"NAME";s:27:"Скрытые форумы";s:5:"~NAME";s:27:"Скрытые форумы";s:11:"DESCRIPTION";s:156:"Форумы, которые д.б. закрыты от общего доступа, так как используются для комментариев.";s:12:"~DESCRIPTION";s:156:"Форумы, которые д.б. закрыты от общего доступа, так как используются для комментариев.";}}}';
+return true;
+?>

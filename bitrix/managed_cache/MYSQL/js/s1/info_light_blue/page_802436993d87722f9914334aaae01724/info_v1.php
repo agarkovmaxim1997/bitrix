@@ -1,0 +1,1 @@
+<?php $filesInfo = ["/bitrix/components/bitrix/photogallery.user/templates/.default/script.js" => "16052089882348",]; ?>

@@ -1,0 +1,7 @@
+<?
+if($INCLUDE_FROM_CACHE!='Y')return false;
+$datecreate = '001605209477';
+$dateexpire = '001605213077';
+$ser_content = 'a:2:{s:7:"CONTENT";s:0:"";s:4:"VARS";a:1:{i:2;a:18:{s:2:"ID";s:1:"2";s:7:"USER_ID";s:1:"2";s:5:"ALIAS";N;s:11:"DESCRIPTION";N;s:6:"AVATAR";N;s:9:"INTERESTS";N;s:10:"LAST_VISIT";N;s:8:"DATE_REG";O:25:"Bitrix\\Main\\Type\\DateTime":1:{s:8:"'.chr(0).'*'.chr(0).'value";O:8:"DateTime":3:{s:4:"date";s:26:"2020-11-12 22:25:37.000000";s:13:"timezone_type";i:3;s:8:"timezone";s:13:"Europe/Moscow";}}s:10:"ALLOW_POST";s:1:"Y";s:44:"BLOG_INTERNALS_BLOG_USER_USER_PERSONAL_PHOTO";N;s:35:"BLOG_INTERNALS_BLOG_USER_USER_LOGIN";s:4:"ivan";s:34:"BLOG_INTERNALS_BLOG_USER_USER_NAME";s:12:"Сергей";s:39:"BLOG_INTERNALS_BLOG_USER_USER_LAST_NAME";s:12:"Иванов";s:12:"BLOG_USER_ID";s:1:"2";s:8:"BlogUser";a:12:{s:5:"ALIAS";N;s:6:"~ALIAS";N;s:11:"DESCRIPTION";N;s:12:"~DESCRIPTION";N;s:9:"INTERESTS";N;s:10:"~INTERESTS";N;s:8:"DATE_REG";s:19:"12.11.2020 22:25:37";s:2:"ID";s:1:"2";s:7:"USER_ID";s:1:"2";s:6:"AVATAR";N;s:10:"ALLOW_POST";s:1:"Y";s:11:"AVATAR_file";b:0;}s:11:"AUTHOR_NAME";s:25:"Сергей Иванов";s:12:"~AUTHOR_NAME";s:25:"Сергей Иванов";s:6:"arUser";a:8:{s:2:"ID";s:1:"2";s:3:"~ID";s:1:"2";s:4:"NAME";s:12:"Сергей";s:5:"~NAME";s:12:"Сергей";s:9:"LAST_NAME";s:12:"Иванов";s:10:"~LAST_NAME";s:12:"Иванов";s:5:"LOGIN";s:4:"ivan";s:6:"~LOGIN";s:4:"ivan";}}}}';
+return true;
+?>
